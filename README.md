@@ -13,7 +13,7 @@
 
 - ERD
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bc697c0-df63-4f29-b445-9952261935f9/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439025-a543e9f3-d5e9-4a16-b86a-cba598b09ce8.png)
     
 
 - 홈화면
