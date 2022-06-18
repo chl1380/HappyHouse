@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="com.ssafy.happyhouse.dao.NoticeDao">
+
+	<insert id="noticeInsert" parameterType="com.ssafy.happyhouse.dto.NoticeDto" useGeneratedKeys="true" keyProperty="noticeId">
+		INSERT INTO notice ( USER_SEQ, TITLE, CONTENT, REG_DT, READ_COUNT )
+		            VALUES ( #{userSeq}, #{title}, #{content}, now(), 0 )
+	</insert>
+	
+	<insert id="noticeFileInsert" parameterType="com.ssafy.happyhouse.dto.NoticeFileDto">
+		INSERT INTO notice_FILE ( notice_ID, FILE_NAME, FILE_SIZE, FILE_CONTENT_TYPE, FILE_URL )
+		            VALUES ( #{noticeId}, #{fileName}, #{fileSize}, #{fileContentType}, #{fileUrl} )
+	</insert>
+	
+	<!-- reg_dt : LocalDateTime, check out BoardDto setter  -->
+	<select id="noticeList" parameterType="map" resultType="com.ssafy.happyhouse.dto.NoticeDto">
+		SELECT b.notice_ID, b.USER_SEQ, u.userName,
+		  	   b.TITLE, b.CONTENT, b.REG_DT, b.READ_COUNT
+		  FROM notice b, USER u
+		 WHERE b.USER_SEQ = u.userSeq
+		 ORDER BY b.notice_ID DESC
+		 LIMIT #{limit} OFFSET #{offset}
+	</select>
+	
+	<select id="noticeListTotalCount" resultType="int">
+		SELECT COUNT(*) FROM notice
+	</select>
+	
+	<select id="noticeListSearchWord" parameterType="map" resultType="com.ssafy.happyhouse.dto.NoticeDto">
+		SELECT b.notice_ID, b.USER_SEQ, u.userName,
+		  	   b.TITLE, b.CONTENT, b.REG_DT, b.READ_COUNT
+		  FROM notice b, USER u
+		  WHERE b.USER_SEQ = u.userSeq
+		    AND b.TITLE LIKE CONCAT('%', #{searchWord} ,'%')
+		  ORDER BY b.notice_ID DESC
+		  LIMIT #{limit} OFFSET #{offset}
+	</select>
+	
+	<select id="noticeListSearchWordTotalCount" parameterType="string" resultType="int">
+		SELECT COUNT(*)
+		  FROM notice
+		 WHERE TITLE LIKE CONCAT('%', #{searchWord} ,'%')
+	</select>
+	
+	<update id="noticeUpdate" parameterType="com.ssafy.happyhouse.dto.NoticeDto">
+		UPDATE notice
+		   SET TITLE = #{title},
+		   CONTENT   = #{content}
+		 WHERE notice_ID = #{noticeId}
+	</update>
+	
+	<delete id="noticeDelete" parameterType="int">
+		DELETE FROM notice WHERE notice_ID = #{noticeId}
+	</delete>
+	
+	<delete id="noticeFileDelete" parameterType="int">
+		DELETE FROM notice_FILE WHERE notice_ID = #{noticeId}
+	</delete>
+	
+	<select id="noticeFileUrlDeleteList" parameterType="int" resultType="string">
+		SELECT FILE_URL FROM notice_FILE WHERE notice_ID = #{noticeId}
+	</select>
+
+	<select id="noticeDetail" parameterType="int" resultType="com.ssafy.happyhouse.dto.NoticeDto">
+		SELECT b.notice_ID, b.USER_SEQ, u.userName,
+			   b.TITLE, b.CONTENT, b.REG_DT, b.READ_COUNT
+		  FROM notice b, USER u
+		 WHERE b.notice_ID = #{noticeId}
+		   AND b.USER_SEQ = u.userSeq
+	</select>
+	
+	<select id="noticeDetailFileList" parameterType="int" resultType="com.ssafy.happyhouse.dto.NoticeFileDto">
+		SELECT notice_ID, FILE_ID, FILE_NAME, FILE_SIZE, FILE_CONTENT_TYPE, 
+		       FILE_URL, REG_DT
+		  FROM notice_FILE
+		 WHERE notice_ID = #{noticeId}
+	</select>
+	
+	<!-- Dao use Dto -->
+	<select id="noticeUserReadCount" parameterType="map" resultType="int">
+		SELECT count(*) FROM notice_user_read WHERE notice_id = #{noticeId} and user_seq = #{userSeq}
+	</select>
+	
+	<!-- Dao use @param -->
+	<insert id="noticeUserReadInsert" parameterType="map">
+		INSERT INTO notice_user_read ( notice_id, user_seq ) VALUES ( #{noticeId}, #{userSeq} )
+	</insert>
+	
+	<update id="noticeReadCountUpdate" parameterType="int">
+		UPDATE notice set READ_COUNT = READ_COUNT + 1
+		 WHERE notice_ID = #{noticeId}
+	</update>
+	
+	<update id="noticeReadCountDelete" parameterType="int">
+		DELETE FROM notice_user_read WHERE notice_ID = #{noticeId}
+	</update>
+	
+	
+
+</mapper>

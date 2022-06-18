@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="com.ssafy.happyhouse.dao.UserDao">
+
+	<insert id="userRegister" parameterType="com.ssafy.happyhouse.dto.UserDto">
+		insert into user(userName, userId, userPassword, userEmail)
+		       values (  #{userName}, #{userId}, #{userPassword}, #{userEmail} )
+	</insert>
+	
+	<select id="userSelect" parameterType="string" resultType="com.ssafy.happyhouse.dto.UserDto">
+		select userName, userPassword, userEmail
+			from user
+			where userId = #{userId}
+	</select>
+	
+	<update id="userUpdate" parameterType="com.ssafy.happyhouse.dto.UserDto">
+		update user
+		set userName = #{userName}, userPassword = #{userPassword}, userEmail = #{userEmail}
+		where userId = #{userId}
+	</update>
+	
+	<delete id="userDelete" parameterType="String">
+
+	    delete from board_file
+	    where BOARD_ID in(SELECT BOARD_ID
+	    FROM board
+	    where user_seq = (select userSeq from user where userId = #{userId})) ;
+	        
+	    delete from board_user_read
+	    where user_seq = (select userSeq from user where userId = #{userId});
+	    
+	    delete from notice_user_read
+	    where user_seq = (select userSeq from user where userId = #{userId});
+	    
+	    delete from friend_relation
+	    where my_seq = (select userSeq from user where userId = #{userId});
+	    
+	    delete from friend_relation
+	    where friend_seq = (select userSeq from user where userId = #{userId});
+	    
+	    delete from interest_house
+	    where user_seq = (select userSeq from user where userId = #{userId});
+	    
+	    delete from board
+	    where user_seq = (select userSeq from user where userId = #{userId});
+	    
+	    delete from user where userId = #{userId};
+	    
+	</delete>
+</mapper>

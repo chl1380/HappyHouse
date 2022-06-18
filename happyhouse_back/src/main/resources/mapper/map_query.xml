@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.happyhouse.dao.MapDao">
+	<select id="getSido" resultType="com.ssafy.happyhouse.dto.SidoGugunCodeDto">
+		select code sidoCode, name sidoName
+		from sido_code
+		order by code
+	</select>
+	
+	<select id="getGugunInSido" parameterType="string" resultType="com.ssafy.happyhouse.dto.SidoGugunCodeDto">
+		select code gugunCode, name gugunName
+		from gugun_code
+		where sido_code = #{sido}
+		order by code
+	</select>
+	
+	<select id="getDongInGugun" parameterType="string" resultType="com.ssafy.happyhouse.dto.HouseInfoDto">
+		select distinct dong dongName, code dongCode
+		from houseinfo
+		where code = #{gugun}
+		order by dong
+	</select>
+	
+	<select id="getAptInDong" parameterType="String" resultType="com.ssafy.happyhouse.dto.HouseInfoDto">
+        select h.no aptCode, h.AptName aptName, h.buildYear buildYear, dc.code dongCode, h.dong dongName, h.jibun jibun, h.lat lat, h.lng lng, dc.city_name sidoName, dc.gugun_name gugunName,
+                (select dealAmount from housedeal where house_no = h.no and no = (select max(no) from housedeal where house_no = h.no)) recentPrice
+        from houseinfo h, dong_code dc
+        where h.dong = dc.name
+        and dc.name = #{dong}
+        order by AptName
+    </select>
+    
+	<select id="getApt" resultType="com.ssafy.happyhouse.dto.HouseInfoDto">
+        select h.no aptCode, h.AptName aptName, h.buildYear buildYear, dc.code dongCode, h.dong dongName, h.jibun jibun, h.lat lat, h.lng lng, dc.city_name sidoName, dc.gugun_name gugunName,
+                (select dealAmount from housedeal where house_no = h.no and no = (select max(no) from housedeal where house_no = h.no)) recentPrice
+        from houseinfo h, dong_code dc
+        where h.dong = dc.name
+        order by AptName
+    </select>
+</mapper>

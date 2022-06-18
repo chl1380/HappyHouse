@@ -1,0 +1,1337 @@
+2022-05-26 16:02:09 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:09 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:09 [restartedMain] INFO o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2022-05-26 16:02:09 [restartedMain] INFO o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2022-05-26 16:02:10 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:10 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:10 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:10 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:10 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:10 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 894 ms 
+2022-05-26 16:02:11 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:11 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:11 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:11 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 1.808 seconds (JVM running for 3.018) 
+2022-05-26 16:02:14 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:14 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:14 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:14 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:14 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:14 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:14 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:14 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 236 ms 
+2022-05-26 16:02:14 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:14 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:14 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:14 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.473 seconds (JVM running for 6.495) 
+2022-05-26 16:02:14 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:17 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:17 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:17 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:17 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:17 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:17 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:17 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:17 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 162 ms 
+2022-05-26 16:02:17 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:18 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:18 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:18 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.332 seconds (JVM running for 9.676) 
+2022-05-26 16:02:18 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:20 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:20 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:21 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:21 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:21 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:21 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:21 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:21 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 196 ms 
+2022-05-26 16:02:21 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:21 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:21 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:21 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.399 seconds (JVM running for 12.932) 
+2022-05-26 16:02:21 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:23 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:23 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:23 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:23 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:23 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:23 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:23 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:23 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 172 ms 
+2022-05-26 16:02:23 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:23 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:23 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:23 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.362 seconds (JVM running for 15.107) 
+2022-05-26 16:02:23 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:26 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:26 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:26 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:26 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:26 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:26 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:26 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:26 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 208 ms 
+2022-05-26 16:02:26 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:26 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:26 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:26 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.41 seconds (JVM running for 18.314) 
+2022-05-26 16:02:26 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:29 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:29 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:29 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:29 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:29 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:29 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:29 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:29 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 172 ms 
+2022-05-26 16:02:29 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:29 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:29 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:29 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.354 seconds (JVM running for 21.514) 
+2022-05-26 16:02:29 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:32 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:32 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:32 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:32 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:32 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:32 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:32 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:32 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 194 ms 
+2022-05-26 16:02:33 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:33 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:33 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:33 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.389 seconds (JVM running for 24.781) 
+2022-05-26 16:02:33 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:36 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:36 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:36 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:36 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:36 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:36 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:36 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 218 ms 
+2022-05-26 16:02:36 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:36 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:36 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.406 seconds (JVM running for 28.108) 
+2022-05-26 16:02:36 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:38 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:38 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:38 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:38 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:38 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:38 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:38 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:38 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 225 ms 
+2022-05-26 16:02:38 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:38 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:38 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:38 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.444 seconds (JVM running for 30.396) 
+2022-05-26 16:02:38 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:41 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:41 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:41 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:41 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:41 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:41 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:41 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:41 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 212 ms 
+2022-05-26 16:02:41 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:41 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:41 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:41 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.377 seconds (JVM running for 33.59) 
+2022-05-26 16:02:41 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:44 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:44 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:44 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:44 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:44 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:44 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:44 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:44 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 179 ms 
+2022-05-26 16:02:45 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:45 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:45 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:45 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.36 seconds (JVM running for 36.735) 
+2022-05-26 16:02:45 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:47 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:47 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:48 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:48 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:48 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:48 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:48 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:48 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 171 ms 
+2022-05-26 16:02:48 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:48 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:48 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:48 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.34 seconds (JVM running for 39.913) 
+2022-05-26 16:02:48 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:51 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:51 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:51 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:51 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:51 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:51 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:51 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:51 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 211 ms 
+2022-05-26 16:02:51 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:51 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:51 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:51 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.417 seconds (JVM running for 43.188) 
+2022-05-26 16:02:51 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:52 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:02:52 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:02:52 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 0 ms 
+2022-05-26 16:02:52 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-1 - Starting... 
+2022-05-26 16:02:53 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-1 - Start completed. 
+2022-05-26 16:02:53 [Thread-85] INFO c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated... 
+2022-05-26 16:02:53 [Thread-85] INFO c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed. 
+2022-05-26 16:02:53 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:53 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:53 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:53 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:53 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:53 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:53 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:53 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 294 ms 
+2022-05-26 16:02:53 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:53 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:53 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:53 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.473 seconds (JVM running for 45.637) 
+2022-05-26 16:02:53 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:56 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:56 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:57 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:57 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:57 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:57 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:57 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:57 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 313 ms 
+2022-05-26 16:02:57 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:57 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:57 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:57 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.639 seconds (JVM running for 49.179) 
+2022-05-26 16:02:57 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:02:59 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:02:59 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:02:59 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:02:59 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:59 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:02:59 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:02:59 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:02:59 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 178 ms 
+2022-05-26 16:02:59 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:02:59 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:02:59 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:02:59 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.341 seconds (JVM running for 51.358) 
+2022-05-26 16:02:59 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:02 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:02 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:02 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:02 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:02 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:02 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:02 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:02 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 185 ms 
+2022-05-26 16:03:02 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:02 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:02 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:02 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.325 seconds (JVM running for 54.515) 
+2022-05-26 16:03:02 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:05 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:05 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:05 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:05 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:05 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:05 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:05 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:05 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 171 ms 
+2022-05-26 16:03:05 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:05 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:05 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:05 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.341 seconds (JVM running for 57.661) 
+2022-05-26 16:03:05 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:08 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:08 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:08 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:08 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:08 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:08 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:08 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:08 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 192 ms 
+2022-05-26 16:03:09 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:09 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:09 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:09 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.348 seconds (JVM running for 60.796) 
+2022-05-26 16:03:09 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:11 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:11 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:12 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:12 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:12 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:12 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:12 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:12 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 202 ms 
+2022-05-26 16:03:12 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:12 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:12 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:12 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.357 seconds (JVM running for 63.954) 
+2022-05-26 16:03:12 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:15 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:15 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:15 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:15 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:15 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:15 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:15 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:15 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 173 ms 
+2022-05-26 16:03:15 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:15 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:15 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:15 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.332 seconds (JVM running for 67.1) 
+2022-05-26 16:03:15 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:18 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:18 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:18 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:18 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:18 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:18 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:18 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:18 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 169 ms 
+2022-05-26 16:03:18 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:18 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:18 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:18 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.34 seconds (JVM running for 70.235) 
+2022-05-26 16:03:18 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:21 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:21 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:21 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:21 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:21 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:21 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:21 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:21 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 191 ms 
+2022-05-26 16:03:21 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:21 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:21 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:21 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.369 seconds (JVM running for 73.465) 
+2022-05-26 16:03:21 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:23 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:23 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:23 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:23 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:23 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:23 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:23 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:23 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 195 ms 
+2022-05-26 16:03:23 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:23 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:23 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:23 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.36 seconds (JVM running for 75.599) 
+2022-05-26 16:03:23 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:26 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:26 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:26 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:26 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:26 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:26 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:26 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:26 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 172 ms 
+2022-05-26 16:03:27 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:27 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:27 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:27 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.327 seconds (JVM running for 78.753) 
+2022-05-26 16:03:27 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:29 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:29 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:30 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:30 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:30 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:30 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:30 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:30 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 174 ms 
+2022-05-26 16:03:30 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:30 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:30 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:30 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.336 seconds (JVM running for 81.936) 
+2022-05-26 16:03:30 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:33 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:33 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:33 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:33 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:33 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:33 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:33 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:33 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 172 ms 
+2022-05-26 16:03:33 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:33 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:33 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:33 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.32 seconds (JVM running for 85.103) 
+2022-05-26 16:03:33 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:36 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:36 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:36 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:36 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:36 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:36 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:36 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 194 ms 
+2022-05-26 16:03:36 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:36 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:36 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.344 seconds (JVM running for 88.242) 
+2022-05-26 16:03:36 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:39 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:39 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:39 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:39 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:39 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:39 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:39 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:39 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 159 ms 
+2022-05-26 16:03:39 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:39 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:39 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:39 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.316 seconds (JVM running for 91.377) 
+2022-05-26 16:03:39 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:42 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:42 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:42 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:42 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:42 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:42 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:42 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:42 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 227 ms 
+2022-05-26 16:03:42 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:42 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:42 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:42 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.404 seconds (JVM running for 94.661) 
+2022-05-26 16:03:42 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:44 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:44 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:44 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:44 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:44 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:44 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:44 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:44 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 180 ms 
+2022-05-26 16:03:45 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:45 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:45 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:45 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.347 seconds (JVM running for 96.814) 
+2022-05-26 16:03:45 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:47 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:47 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:48 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:48 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:48 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:48 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:48 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:48 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms 
+2022-05-26 16:03:48 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:48 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:48 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:48 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.352 seconds (JVM running for 99.951) 
+2022-05-26 16:03:48 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:51 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:51 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:51 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:51 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:51 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:51 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:51 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:51 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 186 ms 
+2022-05-26 16:03:51 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:51 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:51 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:51 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.37 seconds (JVM running for 103.165) 
+2022-05-26 16:03:51 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:54 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:54 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:54 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:54 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:54 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:54 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:54 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:54 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 584 ms 
+2022-05-26 16:03:55 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:55 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:55 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:55 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.847 seconds (JVM running for 106.892) 
+2022-05-26 16:03:55 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:03:57 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:03:57 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:03:57 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:03:57 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:57 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:03:57 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:03:57 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:03:57 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 169 ms 
+2022-05-26 16:03:57 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:03:57 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:03:57 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:03:57 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.318 seconds (JVM running for 108.968) 
+2022-05-26 16:03:57 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:00 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:00 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:00 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:00 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:00 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:00 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:00 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:00 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 157 ms 
+2022-05-26 16:04:00 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:00 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:00 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:00 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.315 seconds (JVM running for 112.052) 
+2022-05-26 16:04:00 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:03 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:03 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:03 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:03 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:03 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:03 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:03 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:03 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 164 ms 
+2022-05-26 16:04:03 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:03 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:03 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:03 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.323 seconds (JVM running for 115.165) 
+2022-05-26 16:04:03 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:06 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:06 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:06 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:06 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:06 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:06 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:06 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:06 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 180 ms 
+2022-05-26 16:04:06 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:06 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:06 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:06 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.361 seconds (JVM running for 118.349) 
+2022-05-26 16:04:06 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:09 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:09 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:09 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:09 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:09 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:09 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:09 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:09 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 170 ms 
+2022-05-26 16:04:09 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:09 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:09 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:09 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.334 seconds (JVM running for 121.47) 
+2022-05-26 16:04:09 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:12 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:12 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:12 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:12 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:12 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:12 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:12 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:12 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 196 ms 
+2022-05-26 16:04:12 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:12 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:12 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:12 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.349 seconds (JVM running for 124.628) 
+2022-05-26 16:04:12 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:15 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:15 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:15 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:15 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:15 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:15 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:16 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:16 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 187 ms 
+2022-05-26 16:04:16 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:16 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:16 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:16 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.346 seconds (JVM running for 127.807) 
+2022-05-26 16:04:16 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:18 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:18 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:18 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:18 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:18 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:18 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:18 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:18 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 174 ms 
+2022-05-26 16:04:18 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:18 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:18 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:18 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.33 seconds (JVM running for 130.329) 
+2022-05-26 16:04:18 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:21 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:21 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:21 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:21 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:21 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:21 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:21 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:21 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 173 ms 
+2022-05-26 16:04:21 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:21 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:21 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:21 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.328 seconds (JVM running for 133.425) 
+2022-05-26 16:04:21 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:24 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:24 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:24 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:24 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:24 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:24 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:24 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:24 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 154 ms 
+2022-05-26 16:04:24 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:24 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:24 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:24 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.303 seconds (JVM running for 136.554) 
+2022-05-26 16:04:24 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:27 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:27 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:27 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:27 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:27 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:27 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:27 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:27 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 184 ms 
+2022-05-26 16:04:28 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:28 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:28 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:28 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.349 seconds (JVM running for 139.788) 
+2022-05-26 16:04:28 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:30 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:30 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:31 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:31 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:31 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:31 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:31 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:31 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 249 ms 
+2022-05-26 16:04:31 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:31 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:31 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:31 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.421 seconds (JVM running for 143.05) 
+2022-05-26 16:04:31 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:33 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:04:33 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:04:33 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 1 ms 
+2022-05-26 16:04:33 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-2 - Starting... 
+2022-05-26 16:04:33 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-2 - Start completed. 
+2022-05-26 16:04:34 [Thread-283] INFO c.z.h.HikariDataSource - HikariPool-2 - Shutdown initiated... 
+2022-05-26 16:04:34 [Thread-283] INFO c.z.h.HikariDataSource - HikariPool-2 - Shutdown completed. 
+2022-05-26 16:04:34 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:34 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:34 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:34 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:34 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:34 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:34 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:34 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 176 ms 
+2022-05-26 16:04:34 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:34 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:34 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:34 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.351 seconds (JVM running for 146.343) 
+2022-05-26 16:04:34 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:35 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:04:35 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:04:35 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 0 ms 
+2022-05-26 16:04:35 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-3 - Starting... 
+2022-05-26 16:04:35 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-3 - Start completed. 
+2022-05-26 16:04:36 [Thread-289] INFO c.z.h.HikariDataSource - HikariPool-3 - Shutdown initiated... 
+2022-05-26 16:04:36 [Thread-289] INFO c.z.h.HikariDataSource - HikariPool-3 - Shutdown completed. 
+2022-05-26 16:04:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:36 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:36 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:36 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:36 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:36 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:36 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:36 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 159 ms 
+2022-05-26 16:04:36 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:36 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:36 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.323 seconds (JVM running for 148.513) 
+2022-05-26 16:04:36 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:37 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:04:37 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:04:37 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 1 ms 
+2022-05-26 16:04:37 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-4 - Starting... 
+2022-05-26 16:04:37 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-4 - Start completed. 
+2022-05-26 16:04:39 [Thread-295] INFO c.z.h.HikariDataSource - HikariPool-4 - Shutdown initiated... 
+2022-05-26 16:04:39 [Thread-295] INFO c.z.h.HikariDataSource - HikariPool-4 - Shutdown completed. 
+2022-05-26 16:04:39 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:39 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:39 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:39 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:39 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:39 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:39 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:39 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 193 ms 
+2022-05-26 16:04:39 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:39 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:39 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:39 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.342 seconds (JVM running for 151.66) 
+2022-05-26 16:04:39 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:40 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:04:40 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:04:40 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 1 ms 
+2022-05-26 16:04:40 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-5 - Starting... 
+2022-05-26 16:04:40 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-5 - Start completed. 
+2022-05-26 16:04:42 [Thread-301] INFO c.z.h.HikariDataSource - HikariPool-5 - Shutdown initiated... 
+2022-05-26 16:04:42 [Thread-301] INFO c.z.h.HikariDataSource - HikariPool-5 - Shutdown completed. 
+2022-05-26 16:04:42 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:42 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:43 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:43 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:43 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:43 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:43 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:43 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 213 ms 
+2022-05-26 16:04:43 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:43 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:43 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:43 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.373 seconds (JVM running for 154.898) 
+2022-05-26 16:04:43 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:44 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:04:44 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:04:44 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 0 ms 
+2022-05-26 16:04:44 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause 
+java.lang.NullPointerException: null
+	at com.ssafy.happyhouse.controller.BoardController.boardInsert(BoardController.java:97)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2022-05-26 16:04:45 [http-nio-8080-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause 
+java.lang.NullPointerException: null
+	at com.ssafy.happyhouse.controller.BoardController.boardInsert(BoardController.java:97)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2022-05-26 16:04:46 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:46 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:46 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:46 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:46 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:46 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:46 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:46 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 198 ms 
+2022-05-26 16:04:46 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:46 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:46 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:46 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.361 seconds (JVM running for 158.136) 
+2022-05-26 16:04:46 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:49 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:49 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:49 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:49 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:49 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:49 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:49 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:49 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 245 ms 
+2022-05-26 16:04:49 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:49 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:49 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:49 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.417 seconds (JVM running for 161.425) 
+2022-05-26 16:04:49 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:51 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:51 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:51 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:51 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:51 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:51 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:51 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:51 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 198 ms 
+2022-05-26 16:04:51 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:51 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:51 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:51 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.351 seconds (JVM running for 163.554) 
+2022-05-26 16:04:51 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:54 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:54 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:54 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:54 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:54 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:54 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:54 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:54 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 202 ms 
+2022-05-26 16:04:55 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:55 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:55 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:55 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.37 seconds (JVM running for 166.736) 
+2022-05-26 16:04:55 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:04:57 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:04:57 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:04:58 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:04:58 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:58 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:04:58 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:04:58 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:04:58 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 203 ms 
+2022-05-26 16:04:58 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:04:58 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:04:58 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:04:58 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.37 seconds (JVM running for 169.952) 
+2022-05-26 16:04:58 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:01 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:01 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:01 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:01 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:01 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:01 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:01 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:01 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms 
+2022-05-26 16:05:01 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:01 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:01 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:01 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.304 seconds (JVM running for 173.02) 
+2022-05-26 16:05:01 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:04 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:04 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:04 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:04 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:04 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:04 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:04 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:04 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 180 ms 
+2022-05-26 16:05:04 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:04 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:04 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:04 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.317 seconds (JVM running for 176.105) 
+2022-05-26 16:05:04 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:07 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:07 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:07 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:07 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:07 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:07 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:07 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:07 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 170 ms 
+2022-05-26 16:05:07 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:07 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:07 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:07 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.326 seconds (JVM running for 179.203) 
+2022-05-26 16:05:07 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:10 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:10 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:10 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:10 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:10 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:10 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:10 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:10 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 162 ms 
+2022-05-26 16:05:10 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:10 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:10 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:10 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.292 seconds (JVM running for 182.257) 
+2022-05-26 16:05:10 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:13 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:13 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:13 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:13 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:13 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:13 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:13 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:13 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 179 ms 
+2022-05-26 16:05:13 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:13 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:13 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:13 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.313 seconds (JVM running for 185.343) 
+2022-05-26 16:05:13 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:16 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:16 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:16 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:16 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:16 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:16 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:16 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:16 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 178 ms 
+2022-05-26 16:05:16 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:16 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:16 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:16 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.313 seconds (JVM running for 188.452) 
+2022-05-26 16:05:16 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:19 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:19 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:19 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:19 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:19 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:19 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:19 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:19 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms 
+2022-05-26 16:05:19 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:19 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:19 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:19 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.288 seconds (JVM running for 191.507) 
+2022-05-26 16:05:19 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:22 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:22 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:22 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:22 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:22 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:22 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:22 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:22 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 164 ms 
+2022-05-26 16:05:22 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:22 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:22 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:22 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.301 seconds (JVM running for 194.595) 
+2022-05-26 16:05:22 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:24 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:24 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:24 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:24 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:24 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:24 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:24 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:24 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 155 ms 
+2022-05-26 16:05:24 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:24 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:24 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:24 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.286 seconds (JVM running for 196.627) 
+2022-05-26 16:05:24 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:27 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:27 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:27 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:27 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:27 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:27 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:27 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:27 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 158 ms 
+2022-05-26 16:05:27 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:27 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:27 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:27 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.283 seconds (JVM running for 199.664) 
+2022-05-26 16:05:27 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:30 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:30 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:30 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:30 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:30 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:30 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:30 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:30 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 157 ms 
+2022-05-26 16:05:31 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:31 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:31 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:31 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.279 seconds (JVM running for 202.728) 
+2022-05-26 16:05:31 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:33 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:33 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:34 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:34 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:34 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:34 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:34 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:34 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 159 ms 
+2022-05-26 16:05:34 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:34 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:34 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:34 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.283 seconds (JVM running for 205.818) 
+2022-05-26 16:05:34 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:36 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:36 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:37 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:37 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:37 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:37 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:37 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:37 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms 
+2022-05-26 16:05:37 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:37 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:37 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:37 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.291 seconds (JVM running for 208.898) 
+2022-05-26 16:05:37 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:40 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:40 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:40 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:40 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:40 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:40 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:40 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:40 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 160 ms 
+2022-05-26 16:05:40 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:40 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:40 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:40 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.286 seconds (JVM running for 211.958) 
+2022-05-26 16:05:40 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:43 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:43 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:43 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:43 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:43 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:43 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:43 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:43 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 156 ms 
+2022-05-26 16:05:43 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:43 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:43 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:43 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.278 seconds (JVM running for 214.984) 
+2022-05-26 16:05:43 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:46 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:46 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:46 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:46 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:46 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:46 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:46 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:46 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 161 ms 
+2022-05-26 16:05:46 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:46 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:46 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:46 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.293 seconds (JVM running for 218.03) 
+2022-05-26 16:05:46 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:49 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:49 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:49 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:49 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:49 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:49 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:49 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:49 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 165 ms 
+2022-05-26 16:05:49 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:49 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:49 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:49 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.284 seconds (JVM running for 221.071) 
+2022-05-26 16:05:49 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:52 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:52 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:52 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:52 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:52 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:52 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:52 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:52 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 159 ms 
+2022-05-26 16:05:52 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:52 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:52 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:52 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.287 seconds (JVM running for 224.116) 
+2022-05-26 16:05:52 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:55 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:55 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:55 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:55 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:55 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:55 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:55 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:55 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 164 ms 
+2022-05-26 16:05:55 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:55 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:55 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:55 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.297 seconds (JVM running for 227.169) 
+2022-05-26 16:05:55 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:05:58 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:05:58 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:05:58 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:05:58 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:58 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:05:58 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:05:58 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:05:58 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms 
+2022-05-26 16:05:58 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:05:58 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:05:58 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:05:58 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.294 seconds (JVM running for 230.239) 
+2022-05-26 16:05:58 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:01 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:01 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:01 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:01 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:01 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:01 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:01 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:01 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 171 ms 
+2022-05-26 16:06:01 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:01 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:01 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:01 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.296 seconds (JVM running for 233.279) 
+2022-05-26 16:06:01 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:04 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:04 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:04 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:04 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:04 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:04 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:04 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:04 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 161 ms 
+2022-05-26 16:06:04 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:04 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:04 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:04 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.283 seconds (JVM running for 236.321) 
+2022-05-26 16:06:04 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:07 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:07 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:07 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:07 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:07 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:07 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:07 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:07 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 155 ms 
+2022-05-26 16:06:07 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:07 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:07 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:07 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.288 seconds (JVM running for 239.391) 
+2022-05-26 16:06:07 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:10 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:10 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:10 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:10 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:10 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:10 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:10 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:10 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 158 ms 
+2022-05-26 16:06:10 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:10 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:10 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:10 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.289 seconds (JVM running for 242.448) 
+2022-05-26 16:06:10 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:13 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:13 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:13 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:13 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:13 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:13 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:13 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:13 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 152 ms 
+2022-05-26 16:06:13 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:13 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:13 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:13 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.277 seconds (JVM running for 245.508) 
+2022-05-26 16:06:13 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:16 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:16 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:16 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:16 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:16 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:16 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:16 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:16 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms 
+2022-05-26 16:06:16 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:16 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:16 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:16 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.291 seconds (JVM running for 248.566) 
+2022-05-26 16:06:16 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:19 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:19 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:19 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:19 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:19 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:19 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:19 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:19 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 186 ms 
+2022-05-26 16:06:19 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:19 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:19 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:19 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.312 seconds (JVM running for 251.663) 
+2022-05-26 16:06:19 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:22 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:22 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:22 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:22 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:22 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:22 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:22 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:22 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 164 ms 
+2022-05-26 16:06:23 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:23 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:23 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:23 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.283 seconds (JVM running for 254.709) 
+2022-05-26 16:06:23 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:25 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:25 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:26 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:26 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:26 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:26 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:26 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:26 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 165 ms 
+2022-05-26 16:06:26 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:26 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:26 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:26 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.287 seconds (JVM running for 257.797) 
+2022-05-26 16:06:26 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:28 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:28 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:29 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:29 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:29 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:29 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:29 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:29 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 307 ms 
+2022-05-26 16:06:29 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:29 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:29 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:29 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.816 seconds (JVM running for 261.41) 
+2022-05-26 16:06:29 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:31 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:31 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:31 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:31 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:31 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:31 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:31 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:31 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 161 ms 
+2022-05-26 16:06:31 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:31 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:31 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:31 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.3 seconds (JVM running for 263.454) 
+2022-05-26 16:06:31 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:34 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:34 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:34 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:34 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:34 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:34 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:34 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:34 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 160 ms 
+2022-05-26 16:06:34 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:34 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:34 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:34 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.288 seconds (JVM running for 266.51) 
+2022-05-26 16:06:34 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:37 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:37 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:38 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:38 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:38 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:38 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:38 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:38 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 201 ms 
+2022-05-26 16:06:38 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:38 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:38 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:38 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.348 seconds (JVM running for 269.831) 
+2022-05-26 16:06:38 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:41 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 35848 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:41 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:41 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:41 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:41 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:41 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:41 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:41 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 163 ms 
+2022-05-26 16:06:41 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:41 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:41 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:41 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 0.296 seconds (JVM running for 272.948) 
+2022-05-26 16:06:41 [restartedMain] INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged 
+2022-05-26 16:06:43 [RMI TCP Connection(8)-127.0.0.1] INFO o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested. 
+2022-05-26 16:06:43 [RMI TCP Connection(9)-127.0.0.1] INFO o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested. 
+2022-05-26 16:06:58 [restartedMain] INFO c.s.h.HappyhouseApplication - Starting HappyhouseApplication using Java 1.8.0_312 on DESKTOP-4NPAT8D with PID 9236 (C:\boot_workspace\happyhouse\bin\main started by chl13 in C:\boot_workspace\happyhouse) 
+2022-05-26 16:06:58 [restartedMain] INFO c.s.h.HappyhouseApplication - No active profile set, falling back to default profiles: default 
+2022-05-26 16:06:58 [restartedMain] INFO o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2022-05-26 16:06:58 [restartedMain] INFO o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2022-05-26 16:06:59 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2022-05-26 16:06:59 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:59 [restartedMain] INFO o.a.c.c.StandardService - Starting service [Tomcat] 
+2022-05-26 16:06:59 [restartedMain] INFO o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.54] 
+2022-05-26 16:06:59 [restartedMain] INFO o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext 
+2022-05-26 16:06:59 [restartedMain] INFO o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 818 ms 
+2022-05-26 16:06:59 [restartedMain] INFO o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729 
+2022-05-26 16:06:59 [restartedMain] INFO o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2022-05-26 16:06:59 [restartedMain] INFO o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2022-05-26 16:06:59 [restartedMain] INFO c.s.h.HappyhouseApplication - Started HappyhouseApplication in 1.702 seconds (JVM running for 2.531) 
+2022-05-26 16:07:07 [http-nio-8080-exec-1] INFO o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-05-26 16:07:07 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2022-05-26 16:07:07 [http-nio-8080-exec-1] INFO o.s.w.s.DispatcherServlet - Completed initialization in 2 ms 
+2022-05-26 16:07:07 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-1 - Starting... 
+2022-05-26 16:07:07 [http-nio-8080-exec-1] INFO c.z.h.HikariDataSource - HikariPool-1 - Start completed. 
+2022-05-26 16:08:14 [http-nio-8080-exec-10] WARN o.s.v.DataBinder - Skipping URI variable 'boardId' because request contains bind value with same name. 
