@@ -14,66 +14,86 @@
 - ERD
     
     ![image](https://user-images.githubusercontent.com/100895439/174439025-a543e9f3-d5e9-4a16-b86a-cba598b09ce8.png)
+
     
 
 - 홈화면
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cf1a1dc-9da0-4caf-8c50-bece8f17ce06/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439103-bab7bee4-677b-4cc0-94c6-4b671d2c7a71.png)
     
 
 - 로그인화면
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/682c970d-9bc3-4d0e-b6b5-1c452339ae9e/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439109-e15f2968-3e38-49fb-b3b0-95aff0b7974c.png)
+
+
     
 
 - 회원가입화면
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9f468cc-4398-4456-8887-6d4ed7eba3ba/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439144-287fbd7f-5a77-4102-911e-a15b6f29e9e4.png)
+
+
     
 
 - 회원정보 수정 화면
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f4a1ecd-c645-479b-9649-64aa81b006f4/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439149-1a64c7fc-94c3-4d70-9ecc-7a5128afdb49.png)
+
+
     
 
 - 아파트 매물 정보(초기화면)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7482c82-17f2-47ce-aaf0-c37831aca5c5/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439157-f0a1a135-fff7-45c2-91e0-cf776bfeb0c3.png)
+
+
     
 
 - 아파트 매물 정보(선택화면)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36036aa9-da9b-4c95-9676-6c352609b57e/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439160-556cacd3-35ee-4164-a6ea-831eb8491e18.png)
+
+
     
 
 - 아파트 매물 정보(마커선택화면)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5daec066-3afc-4f98-831c-026450cba259/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439164-5bf1392b-893b-40b5-b0ef-c853c55e39e9.png)
+
+
     
 
 - 아파트 매물 정보(관심아파트지정/관심아파트해제)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0184357-dde1-4464-947e-29b8dd67c00d/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439168-7048d5d9-0478-42b2-9b16-d9a4abd76b56.png)
+
+
     
 
 - 아파트 매물 정보(주변상권)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c74d5b0b-163e-4fee-a0b5-d13e8daa52d1/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439172-fda3ddc7-ba29-462e-ae51-95e5dd289143.png)
+
+
     
 
 - 아파트 매물 정보(관심매물)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00b27079-eb52-400f-8d59-21a4f85bf3a9/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439180-3f6e5123-65af-4c3f-b8bb-25aa66b77ef3.png)
+
     
 
 - 자유게시판
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82210802-434e-4f0a-966a-d70a97bba028/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439183-fedf2473-0244-43d5-b2da-22a756c3d5d9.png)
+
     
 
 - 공지사항
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b4aea40-c5a9-4382-82cf-07b579c06837/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/100895439/174439186-f28aed0a-7f60-4a1e-bb6f-7de4b60527e7.png)
+
     
 
 ### 기대 효과 :
